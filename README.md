@@ -2,7 +2,7 @@
 
 👀 I’m interested in Digital electronics and Verilog HDL.
 
-🌱 I’m currently learning verilog HDL:VLSI hardware design verilog HDL:VLSI hardware design
+🌱 I’m currently learning verilog HDL:VLSI hardware design
 
 📫 How to reach me- Drop me a message on[LinkeIn] (https://www.linkedin.com/in/shreya-sharma-758a80294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
