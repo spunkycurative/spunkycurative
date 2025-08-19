@@ -1,4 +1,4 @@
-👋 Hi, I’m @spunkycurative - Shreya
+👋 Hi, I’m @spunkycurative - Shreya Sharma
 
 👀 I’m interested in Digital electronics and Verilog HDL.
 
