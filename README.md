@@ -1,38 +1,50 @@
-👋 Hi, I’m @spunkycurative - Shreya Sharma
-🌱 Currently diving deep into Verilog HDL, exploring digital design concepts, testbenches, counters, registers, and FIFO implementations.
-🔬 Interested in RTL Design & Verification, with a future focus on SystemVerilog, UVM, and advanced verification methodologies.
-🎯 My goal is to become internship-ready in Design Verification and pursue a career in VLSI (RTL/Verification).
+# Hi, I'm Shreya Sharma 👋  
 
-🌱I’m currently learning:
-1.Digital Design & RTL fundamentals
-2.Verilog HDL (behavioral & structural modeling)
-3.Writing testbenches and simulating waveforms
-4.Designing counters, registers, and FIFO architectures
+🔧 **B.Tech ECE Student | Aspiring RTL / Design Verification Engineer | Digital Electronics & VLSI Enthusiast**  
 
-🚀 Future Interests:
-1.SystemVerilog & UVM
-2.RTL Verification methodologies
-3.Industry-level VLSI/ASIC verification projects
-4.Building strong problem-solving skills for VLSI interviews
+Welcome to my GitHub profile! I’m passionate about **RTL design, SystemVerilog, and VLSI verification**, and I use this space to showcase my projects, experiments, and learning journey.  
 
-📂 Repositories Highlight:
-📌 Verilog-based projects including:
-1.Range-based Counters
-2.Register Set Designs
-3.FIFO (Single-clock & Dual-clock)
-4.Encoders, Decoders, and Comparators
+---
 
+## 🌟 About Me
+- 🎓 2nd-year **Electronics & Communication Engineering** student  
+- 💻 Hands-on with **Verilog, SystemVerilog, Testbenches, RTL Design**  
+- 📈 Exploring **protocols** (FIFO, UART, SPI, I2C, APB, AXI)  
+- 📊 Interested in **Digital Design, RTL Verification & VLSI**  
+- ✍️ Also a published poet (*Whispers Within*)  
 
+---
 
-📫 How to reach me- Drop me a message on[LinkeIn] (https://www.linkedin.com/in/shreya-sharma-758a80294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🛠️ Tech Stack
+- **Languages**: Verilog, SystemVerilog 
+- **Tools**: EDA playground  
+- **Domains**: Digital Electronics, RTL Design, Verification  
 
-✨ I use this space to track my VLSI learning journey and share projects as I grow into a future Design Verification Engineer
+---
 
-😄Pronouns-She/her
+## 📂 Featured Projects
+Here are some of the projects I’ve worked on:  
 
-⚡ Fun fact: I write poetry when I’m not writing code.
+- 🔸 [Verilog Basics](https://github.com/spunkycurative/Verilog-designs) → Adders, Multiplexers, Encoders, Flip-Flops, Counters, Registers, FIFO  
+- 🔸 UART (TX/RX design with testbench) *(repo coming soon)*  
+- 🔸 SPI (Master-Slave design & verification) *(repo coming soon)*  
+- 🔸 I2C Master (Read/Write operations with testbench) *(repo coming soon)*  
+- 🔸 FIFO (Single & Dual Clock with flags and testbench)  
 
-<!---
-spunkycurative/spunkycurative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📌 Current Focus
+- Deep dive into **SystemVerilog & UVM** for Verification  
+- Preparing for **Design Verification internships** 
+- Expanding protocol-level projects (UART, SPI, I2C, AXI, APB)  
+
+---
+
+## ✨ Fun Fact
+When I’m not coding RTL or debugging testbenches, I write poetry and explore creative expression ✍️  
+
+---
+
+📫 **Let’s Connect**  
+- [LinkedIn] (https://www.linkedin.com/in/shreya-sharma-758a80294/)
+- [Email] (shreyashar1004@gmail.com)  
