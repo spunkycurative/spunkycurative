@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about **RTL design, SystemVerilog
 ---
 
 ## 🌟 About Me
-- 🎓 2nd-year **Electronics & Communication Engineering** student  
+- 🎓 **Electronics & Communication Engineering** student  
 - 💻 Hands-on with **Verilog, SystemVerilog, Testbenches, RTL Design**  
 - 📈 Exploring **protocols** (FIFO, UART, SPI, I2C, APB, AXI)  
 - 📊 Interested in **Digital Design, RTL Verification & VLSI**  
