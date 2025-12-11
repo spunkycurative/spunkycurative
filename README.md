@@ -27,7 +27,7 @@ Here are some of the projects I’ve worked on:
 
 - 🔸 [Verilog Basics](https://github.com/spunkycurative/Verilog-designs) → Adders, Multiplexers, Encoders, Flip-Flops, Counters, Registers, FIFO  
 - 🔸 UART (TX/RX design with testbench) *(repo coming soon)*  
-- 🔸 SPI (Master-Slave design & verification)  
+- 🔸 [SPI Protocol](https://github.com/spunkycurative/spi-master-slave-rtl-verification) → SPI Master–Slave design & verification  
 - 🔸 I2C Master (Read/Write operations with testbench) *(repo coming soon)*  
 - 🔸 FIFO (Single & Dual Clock with flags and testbench)  
 
