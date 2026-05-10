@@ -28,10 +28,10 @@ Here are some of the projects I’ve worked on:
 - 🔸[Verilog Basics](https://github.com/spunkycurative/Verilog-designs) → Adders, Multiplexers, Encoders, Flip-Flops, Counters, Registers, FIFO  
 - 🔸[UART Protocol](https://github.com/spunkycurative/uart-design-verification) → TX/RX design with baud rate generator and testbench 
 - 🔸[SPI Protocol](https://github.com/spunkycurative/spi-master-slave-rtl-verification) → SPI Master–Slave design & verification  
-- 🔸[I2C Protocol](https://github.com/spunkycurative/I2C-master-slave) → I2C Master Slave (Read/Write operations with testbench)   
+- 🔸[I2C Protocol](https://github.com/spunkycurative/I2C-master-slave) → I2C Master Slave (Read/Write operations with testbench)
+- 🔸[Axi-Lite protocol](https://github.com/spunkycurative/axi-lite-design-verification) → Register-based communication with 5-channel handshake   
 - 🔸[Fifo Architecture](https://github.com/spunkycurative/fifo_design_verification_sv) → Synchronous FIFO (Single Clock with flags and testbench)
-- 🔸[Axi-Lite protocol](https://github.com/spunkycurative/axi-lite-design-verification) → Register-based communication with 5-channel handshake
-
+  
 ---
 
 ## 📌 Current Focus
