@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I’m focused on **RTL design and digital verifica
 ### Tools
 
 * EDA Playground
-* Vivado
 * GTKWave
 * Riviera-PRO
 
